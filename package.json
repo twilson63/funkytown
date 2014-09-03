@@ -1,0 +1,16 @@
+{
+  "name": "funkytown",
+  "version": "0.0.0",
+  "description": "Funkytown is an aggregate module that pulls the following libs together:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.4.3",
+    "data.future": "^2.2.0",
+    "pointfree-fantasy": "^0.1.1"
+  }
+}
