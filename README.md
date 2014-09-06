@@ -89,3 +89,11 @@ var functor = {
 
 The map method will take the function and pass it in the Functors map method so
 it may be executed inside the context of the object.
+
+### mjoin(Functor, Functor, ...)
+
+mjoin will combine or join multiple Functors of the same type.
+
+### chain(Functor, Functor)
+
+
